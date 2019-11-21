@@ -1,7 +1,7 @@
 # DansonGo 2 -- Option Pricing with Monte Carlo Simulation under Heston Stochastic Volatility Model
 An option price simulator under Matlab.
 
-![screenshot](/Users/genli/Dropbox/software/DansonGo/screenshot.jpeg)
+![screenshot](screenshot.jpeg)
 
 
 
